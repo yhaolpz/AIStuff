@@ -1,4 +1,4 @@
-# Useful AI Stuff · AI 有用的东西
+# AIStuff · AI 有用的东西
 
 收集可以直接复用的 AI 提示词、工作流和小工具，从解决具体问题开始。
 
